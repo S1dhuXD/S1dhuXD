@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me Mail:
-- ⚡ Fun fact: I am 6'5 and I got a dark humour 
+- ⚡ Fun fact: I am 6'4 and I also do photography https://www.instagram.com/hashmat_sidhu/
 
 <!---
 S1dhuXD/S1dhuXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
